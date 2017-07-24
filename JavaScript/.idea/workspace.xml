@@ -15,23 +15,21 @@
   <component name="ExecutionTargetManager" SELECTED_TARGET="default_target" />
   <component name="FileEditorManager">
     <leaf>
-      <file leaf-file-name="ReversedWords.js" pinned="false" current-in-tab="false">
-        <entry file="file://$PROJECT_DIR$/ReversedWords/ReversedWords.js">
+      <file leaf-file-name="FriendOrFoe.js" pinned="false" current-in-tab="false">
+        <entry file="file://$PROJECT_DIR$/FriendOrFoe/FriendOrFoe.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="15">
-              <caret line="3" column="0" lean-forward="true" selection-start-line="3" selection-start-column="0" selection-end-line="9" selection-end-column="1" />
-              <folding>
-                <element signature="n#!!doc;n#reverseWords#0" expanded="false" />
-              </folding>
+            <state relative-caret-position="315">
+              <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+              <folding />
             </state>
           </provider>
         </entry>
       </file>
-      <file leaf-file-name="RangeExtraction.js" pinned="false" current-in-tab="true">
-        <entry file="file://$PROJECT_DIR$/RangeExtraction/RangeExtraction.js">
+      <file leaf-file-name="IncreasingDecreasingNumbers.js" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/IncreasingDecreasingNumbers/IncreasingDecreasingNumbers.js">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="443">
-              <caret line="58" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="17" />
+            <state relative-caret-position="1055">
+              <caret line="93" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
               <folding />
             </state>
           </provider>
@@ -51,6 +49,8 @@
       <list>
         <option value="$PROJECT_DIR$/ReversedWords/ReversedWords.js" />
         <option value="$PROJECT_DIR$/RangeExtraction/RangeExtraction.js" />
+        <option value="$PROJECT_DIR$/FriendOrFoe/FriendOrFoe.js" />
+        <option value="$PROJECT_DIR$/IncreasingDecreasingNumbers/IncreasingDecreasingNumbers.js" />
       </list>
     </option>
   </component>
@@ -61,8 +61,8 @@
     <sorting>DEFINITION_ORDER</sorting>
   </component>
   <component name="ProjectFrameBounds">
-    <option name="x" value="40" />
-    <option name="y" value="23" />
+    <option name="x" value="259" />
+    <option name="y" value="76" />
     <option name="width" value="1399" />
     <option name="height" value="877" />
   </component>
@@ -115,8 +115,14 @@
       </list>
     </option>
   </component>
-  <component name="RunManager" selected="Node.js.RangeExtraction.js">
+  <component name="RunManager" selected="Node.js.IncreasingDecreasingNumbers.js">
     <configuration default="false" name="RangeExtraction.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="RangeExtraction.js" working-dir="$PROJECT_DIR$/RangeExtraction">
+      <method />
+    </configuration>
+    <configuration default="false" name="FriendOrFoe.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="FriendOrFoe.js" working-dir="$PROJECT_DIR$/FriendOrFoe">
+      <method />
+    </configuration>
+    <configuration default="false" name="IncreasingDecreasingNumbers.js" type="NodeJSConfigurationType" factoryName="Node.js" temporary="true" path-to-node="project" path-to-js-file="IncreasingDecreasingNumbers.js" working-dir="$PROJECT_DIR$/IncreasingDecreasingNumbers">
       <method />
     </configuration>
     <configuration default="true" type="DartCommandLineRunConfigurationType" factoryName="Dart Command Line Application">
@@ -203,13 +209,17 @@
       </EXTENSION>
       <method />
     </configuration>
-    <list size="2">
+    <list size="4">
       <item index="0" class="java.lang.String" itemvalue="Node.js.CodeWars" />
       <item index="1" class="java.lang.String" itemvalue="Node.js.RangeExtraction.js" />
+      <item index="2" class="java.lang.String" itemvalue="Node.js.FriendOrFoe.js" />
+      <item index="3" class="java.lang.String" itemvalue="Node.js.IncreasingDecreasingNumbers.js" />
     </list>
     <recent_temporary>
-      <list size="1">
-        <item index="0" class="java.lang.String" itemvalue="Node.js.RangeExtraction.js" />
+      <list size="3">
+        <item index="0" class="java.lang.String" itemvalue="Node.js.IncreasingDecreasingNumbers.js" />
+        <item index="1" class="java.lang.String" itemvalue="Node.js.FriendOrFoe.js" />
+        <item index="2" class="java.lang.String" itemvalue="Node.js.RangeExtraction.js" />
       </list>
     </recent_temporary>
   </component>
@@ -223,25 +233,25 @@
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
       <updated>1500856797730</updated>
-      <workItem from="1500856799026" duration="1026000" />
+      <workItem from="1500856799026" duration="7384000" />
     </task>
     <servers />
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="1026000" />
+    <option name="totallyTimeSpent" value="7384000" />
   </component>
   <component name="ToolWindowManager">
-    <frame x="40" y="23" width="1399" height="877" extended-state="6" />
+    <frame x="259" y="76" width="1399" height="877" extended-state="0" />
     <editor active="true" />
     <layout>
-      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2494639" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.2108649" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
       <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
       <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
-      <window_info id="Run" active="true" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.32920793" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
       <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="false" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
       <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
       <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="false" content_ui="tabs" />
-      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.39975247" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
       <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="-1" side_tool="true" content_ui="tabs" />
       <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
       <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
@@ -275,8 +285,24 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/RangeExtraction/RangeExtraction.js">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="443">
-          <caret line="58" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="63" selection-end-column="17" />
+        <state relative-caret-position="218">
+          <caret line="43" column="6" lean-forward="true" selection-start-line="43" selection-start-column="6" selection-end-line="43" selection-end-column="6" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/FriendOrFoe/FriendOrFoe.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="315">
+          <caret line="23" column="1" lean-forward="true" selection-start-line="23" selection-start-column="1" selection-end-line="23" selection-end-column="1" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/IncreasingDecreasingNumbers/IncreasingDecreasingNumbers.js">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="1055">
+          <caret line="93" column="0" lean-forward="true" selection-start-line="0" selection-start-column="0" selection-end-line="109" selection-end-column="0" />
           <folding />
         </state>
       </provider>
